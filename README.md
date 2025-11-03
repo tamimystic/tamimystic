@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamimystic" alt="tamimystic" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/tamimystic" target="blank"><img src="https://img.shields.io/twitter/follow/tamimystic?logo=twitter&style=for-the-badge" alt="tamimystic" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/tamimystic/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn" /></a> </p>
 
 - 🔭 I’m currently Student [B.Sc in CSE](https://vu.edu.bd/academics/departments/computer-science-and-engineering)
 
