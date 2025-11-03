@@ -11,23 +11,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=tamimystic&theme=radical&margin-w=15&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/tamimystic" target="blank">
-    <img src="https://img.shields.io/twitter/follow/tamimystic?logo=twitter&style=for-the-badge" alt="Twitter Follow"/>
-  </a>
+<p align="center"> 
+    <a href="https://www.linkedin.com/in/tamimystic/" target="blank">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=0077B5" alt="Connect on LinkedIn" />
+    </a> 
 </p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/MultiLanguage-Rainbow%20Lang%20User-6f42c1?style=for-the-badge&logo=google-translate&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Stars-Super%20Stargazer-ffcc00?style=for-the-badge&logo=starship&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Commits-Deep%20Committer-00bfff?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Followers-Ultra%20Celebrity-ff66b2?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Repositories-Ultra%20Repo%20Creator-60a5fa?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/PullRequest-Hyper%20Puller-94b4ff?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Experience-Experienced%20Dev-22pt-green?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Issues-High%20Issuer-24pt-orange?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/Reviews-Active%20Reviewer-17pt-blueviolet?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a"/>
-</div>
 
 ---
 
