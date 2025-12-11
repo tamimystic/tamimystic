@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently a **B.Sc in CSE Student** at [Varendra University](https://vu.edu.bd/academics/departments/computer-science-and-engineering)
 - 🌱 I’m learning **AI, ML, DL, and GenAI**
-- 👯 I’m looking to collaborate on [GenAI Projects](https://github.com/tamimystic/Data-Science-with-Generative-AI)
+- 👯 I’m looking to collaborate on [GenAI Projects]
 - 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/tamimystic/)
 - 💬 Ask me about **Flutter and AI**
 - 📫 Reach me at **hossainsmtamim@gmail.com**
